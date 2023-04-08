@@ -1,0 +1,5 @@
+# vizeproje
+Kullanıcıdan girilen veriler txt dosyasına kaydedilmekte ve istenildiğinde mail gönderilmektedir.
+Kaynaklar:
+https://kodlamavakti.com/java/dosya-file-okuma-ve-yazma-islemleri/
+https://netcorecloud.com/tutorials/send-email-in-java-using-gmail-smtp/
