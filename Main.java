@@ -1,4 +1,3 @@
-package mailcalismasi;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -180,6 +179,7 @@ public class Main {
         System.out.println("Mailler başarıyla gönderildi.");
         }
     public  void mailGonder(String gonderen, String sifre, String alici, String baslik, String mesaj) {
+        // Gmailde sorun olduğu için outlook hostu, portu ve protokolu ayarlanmıştır.
         // Gönderilecek kişinin maili
         String to = alici;
 
